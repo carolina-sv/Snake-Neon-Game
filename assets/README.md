@@ -1,3 +1,4 @@
+
 # Snake Neon Game
 
 A retro-style snake game with neon cyberpunk aesthetics built in Python using Pygame.
@@ -39,3 +40,4 @@ snake_neon_game/
 ```bash
 python main.py
 ```
+>>>>>>> 8382e9e (feat(auth): adição do game)
