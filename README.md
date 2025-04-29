@@ -40,4 +40,4 @@ snake_neon_game/
 ```bash
 python main.py
 ```
->>>>>>> 8382e9e (feat(auth): adição do game)
+
