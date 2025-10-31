@@ -1,43 +1,16 @@
+# 🐍 Snake Neon Game
 
-# Snake Neon Game
+Snake Neon Game é um jogo da cobrinha em estilo retrô, desenvolvido em Python com a biblioteca **Pygame**.  
+O objetivo é simples: comer os pixels de energia para crescer e aumentar sua pontuação — sem bater nas paredes ou em si mesmo!
 
-A retro-style snake game built in Python using Pygame.
+---
 
-## 🔧 Requirements
+## 🔧 Requisitos
 
 - Python 3.10+
-- pygame
+- Pygame
 
-Install dependencies with:
+Instale as dependências com o comando:
+
 ```bash
 pip install -r requirements.txt
-```
-
-## 🎮 Controls
-- Arrow keys: move the snake
-- ESC: exit the game
-
-## 🎯 Objective
-Eat the "energy pixels" to increase your score and speed. Don’t hit the walls or yourself!
-
-
-## 📊 Structure 
-```
-snake_neon_game/
-├── assets/
-│   ├── sounds/
-│       └── theme.ogg             # Background music
-│   
-│           
-├── main.py                       # Game launcher
-├── game.py                       # Main game logic
-├── config.py                     # Colors, constants, and FPS
-├── requirements.txt              # Project dependencies
-└── README.md                     # This file
-```
-
-## 📚 How to Run
-```bash
-python main.py
-```
-
